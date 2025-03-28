@@ -51,6 +51,8 @@ La idea es que te diviertas, hagas algo funcional en poco tiempo, y nos muestres
 - [Cursor](https://www.cursor.sh/)
 - [Lovable](https://www.lovable.so/)
 
+¡No penalizamos el uso de plantillas! Usalas si te hacen más ágil.
+
 💡 **Sobre el uso de OpenAI (o similar)**:
 - Podés usar **tu propia API key** (gratuita o paga, `gpt-3.5-turbo` está bien).
 - Si querés evitar consumir tokens, también podés **mockear la respuesta** directamente en código.
