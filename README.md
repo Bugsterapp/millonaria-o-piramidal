@@ -49,7 +49,7 @@ La idea es que te diviertas, hagas algo funcional en poco tiempo, y nos muestres
 💡 Podés usar herramientas como:
 - [v0.dev](https://v0.dev)
 - [Cursor](https://www.cursor.sh/)
-- [Lovable](https://www.lovable.so/)
+- [Lovable](https://www.lovable.dev/)
 
 ¡No penalizamos el uso de plantillas! Usalas si te hacen más ágil.
 
