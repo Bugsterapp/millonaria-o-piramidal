@@ -51,7 +51,11 @@ La idea es que te diviertas, hagas algo funcional en poco tiempo, y nos muestres
 - [Cursor](https://www.cursor.sh/)
 - [Lovable](https://www.lovable.so/)
 
-¡No penalizamos el uso de plantillas! Usalas si te hacen más ágil.
+💡 **Sobre el uso de OpenAI (o similar)**:
+- Podés usar **tu propia API key** (gratuita o paga, `gpt-3.5-turbo` está bien).
+- Si querés evitar consumir tokens, también podés **mockear la respuesta** directamente en código.
+- Opcionalmente podés permitir que el usuario final pegue su propia API key en la app.
+- No es necesario que sea funcional 100%, lo que importa es el flujo general y tu enfoque.
 
 ---
 
@@ -79,7 +83,7 @@ La idea es que te diviertas, hagas algo funcional en poco tiempo, y nos muestres
 - Que la app funcione y tenga buen flujo
 - Claridad en la UI
 - Enfoque y criterio de producto
-  
+
 ---
 
 ## 🛑 Qué no hace falta
@@ -92,3 +96,4 @@ La idea es que te diviertas, hagas algo funcional en poco tiempo, y nos muestres
 ---
 
 💬 Si necesitás más tiempo, escribinos.  
+
